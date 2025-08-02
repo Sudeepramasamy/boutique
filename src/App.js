@@ -81,7 +81,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-pink-200 to-pink-300 flex items-center justify-center">
-                  <img src="dress 1.jpg"/>
+                  <img src="dress 1.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
@@ -101,7 +101,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-purple-200 to-purple-300 flex items-center justify-center">
-                  <img src="dress 2.jpg"/>
+                  <img src="dress 2.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
@@ -121,7 +121,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-indigo-200 to-indigo-300 flex items-center justify-center">
-                  <img src="dress 3.jpg"/>
+                  <img src="dress 3.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
@@ -141,7 +141,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-green-200 to-green-300 flex items-center justify-center">
-                  <img src="dress 4.jpg"/>
+                  <img src="dress 4.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
@@ -161,7 +161,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-yellow-200 to-yellow-300 flex items-center justify-center">
-                  <img src="dress 5.jpg"/>
+                  <img src="dress 5.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
@@ -181,7 +181,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-red-200 to-red-300 flex items-center justify-center">
-                  <img src="dress 6.jpg"/>
+                  <img src="dress 6.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
@@ -201,7 +201,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-teal-200 to-teal-300 flex items-center justify-center">
-                  <img src="dress 7.jpg"/>
+                  <img src="dress 7.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
@@ -221,7 +221,7 @@ export default function App() {
             <div className="bg-white rounded-xl shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300">
               <div className="relative overflow-hidden">
                 <div className="w-full h-80 bg-gradient-to-br from-orange-200 to-orange-300 flex items-center justify-center">
-                  <img src="dress 8.jpg"/>
+                  <img src="dress 8.jpg" alt="img"/>
                 </div>
                 <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-10 transition-all duration-300"></div>
               </div>
